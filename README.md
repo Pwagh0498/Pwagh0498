@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Wagh</h1>
-<h3 align="center">Big data developer and Learning machine learning</h3>
+<h3 align="center">Big data developer and machine learning </h3>
 
 - 🔭 I’m currently working on **Machine Learning Model Creation**
 
