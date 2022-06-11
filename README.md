@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Machine learning Visualization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pwagh0498/](https://github.com/Pwagh0498/)
+- 👨‍💻 All of my projects are available at [https://github.com/Pwagh0498/](https://github.com/Pwagh0498/Pwagh0498)
 
 - 💬 Ask me about **Pyspark data featuring**
 
